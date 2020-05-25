@@ -1,5 +1,3 @@
-#windows process list, find, kill
-
 import psutil
 from datetime import datetime
 import pandas as pd
